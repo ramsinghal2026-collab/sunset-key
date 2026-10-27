@@ -1,31 +1,43 @@
-Welcome to Sunset Key
+🌅 Sunset Key
 
-Your city. Your choices. Your adventure.
+Your City. Your Choices. Your Adventure.
 
-Step into Sunset Key, an urban action sandbox set against a moody sunset atmosphere and a neon-inspired city interface. Explore the streets, navigate the map, discover different activities, and build your own experience as you move through the city.
+Welcome to Sunset Key, an independently developed browser game featuring an urban environment, exploration, driving, and a cinematic sunset-inspired atmosphere.
 
-Explore the city
+🎮 About the Game
 
-Find your way around the urban environment with an in-game minimap, location indicators, and a dynamic time-of-day display.
+Explore the city, discover activities, navigate between destinations, and experience the world of Sunset Key.
 
-Take on activities
+✨ Features
 
-Discover a variety of activities and points of interest, including courier jobs, races, hit-list challenges, stunts, and story-related objectives.
+- 🏙️ Urban environment and exploration
+- 🚗 Driving-focused gameplay
+- 🗺️ Map and waypoint navigation
+- 🎯 Activities and objectives
+- 🌆 A distinctive neon-inspired interface
+- 📱 Designed with browser accessibility in mind
 
-Discover the city economy
+Features depend on the current version of the game.
 
-Explore different locations and activities associated with shops, clothing, vehicle customization, properties, and other points of interest.
+▶️ Play the Game
 
-Make the city your own
+Play Sunset Key: [Insert your GitHub Pages link here after publishing.]
 
-Use the map and waypoint system to find destinations and navigate between activities. Track your progress as you explore.
+🕹️ How to Play
 
-A distinctive neon atmosphere
+Open the game in a supported web browser and follow the on-screen controls and instructions.
 
-Enjoy a dark, cinematic interface accented with vivid pink, cyan, amber, and purple details.
+💻 Platform
 
-Ready to explore?
+- Web browser
+- Mobile compatibility depends on the current build and device
 
-Enter Sunset Key, find your next destination, and see what the city has waiting for you.
+📌 Project Status
 
-Sunset Key is an independently developed game. Available features and performance may vary by device and version.
+Sunset Key is an independently developed game. Features and performance may change as development continues.
+
+📜 Credits
+
+Developed independently.
+
+Thank you for checking out Sunset Key!
